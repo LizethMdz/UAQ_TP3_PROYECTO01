@@ -87,13 +87,19 @@
 
             <p class="text-center"> Tu Puntaje: <?php echo $porcentaje ?> % </p>
             <?php
-              if($porcentaje > 20 ||  $porcentaje <= 40 ){
+              if($porcentaje > 21 && $porcentaje <= 40 ){
                 echo "<p class='text-center'> Tu nivel está entre 20 y 40 entonces </p>";
-              }else if ($porcentaje > 41 || $porcentaje <= 60) {
+              }
+
+              if ($porcentaje > 41 && $porcentaje <= 60) {
                 echo "<p class='text-center'> Tu nivel está entre 40 y 60 entonces </p>";
-              } else if ($porcentaje > 61 || $porcentaje <= 80) {
+              }
+
+              if ($porcentaje > 61 && $porcentaje <= 80) {
                 echo "<p class='text-center'> Tu nivel está entre 60 y 80 entonces </p>";
-              } else if ($porcentaje > 81 || $porcentaje <= 100) {
+              }
+
+              if ($porcentaje > 81 && $porcentaje <= 100) {
                 echo "<p class='text-center'> Tu nivel está entre 80 y 100 entonces </p>";
               }
 
