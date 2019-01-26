@@ -1,0 +1,171 @@
+.title{
+  padding: 10px;
+}
+
+.pregu{
+  margin-top: 10px;
+  padding: 40px;
+}
+
+.preguntas{
+  background:#ECECEC;
+}
+
+p{
+  color: #0066cc;
+    font-size: 18px;
+}
+
+.bg-nav{
+  animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: #001F3F;
+  }
+  100% {
+    background-color: #4abcbc;
+  }
+
+}
+
+.text-animation{
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+
+.title-head{
+  color: #0066cc;
+}
+
+.metas{
+  margin-top: 50px;
+}
+
+.img-inicio{
+  text-align: center;
+  padding: 15px;
+}
+
+.btn-next{
+  padding: 20px;
+}
+
+.img-perfil{
+    border-radius: 50%;
+    width: 250px;
+    height: 300px;
+}
+
+
+.img-circular{
+
+  width: 300px;
+  display: inline-block;
+  overflow: hidden;
+  height: 300px;
+  border-radius: 50%;
+  background: url("https://image.flaticon.com/icons/svg/806/806149.svg") no-repeat;
+}
+.img-circular:hover {filter: blur(2px);}
+
+.img-circular2{
+
+  width: 300px;
+  margin-left: 6%;
+  display: inline-block;
+  height: 300px;
+  border-radius: 50%;
+  background: url("https://image.flaticon.com/icons/svg/209/209818.svg") no-repeat;
+}
+
+.img-circular2:hover {filter: blur(2px);}
+
+.img-circular3{
+  width: 300px;
+  margin-left: 6%;
+  display: inline-block;
+  height: 300px;
+  border-radius: 50%;
+  background: url("https://image.flaticon.com/icons/svg/219/219971.svg") no-repeat;
+}
+
+.img-circular3:hover {filter: blur(2px);}
+
+.img-texto{
+  width: 150px;
+  text-align:center;
+  height: 50px;
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.img-texto p{
+    color: white;
+    font-style: oblique;
+    font-size: 24px;
+
+}
+.text-card{
+  font-size: 14px;
+}
+/* .cir-progress,
+.cir-progress:before,
+.cir-progress:after{
+  width: 12rem;
+  height: 12rem;
+  border-radius: 50%;
+}
+
+.cir-progress{
+
+  background: linear-gradient(0deg,#fff 50%, rgba(255, 255, 255, 0.2) 50%);
+  position: relative;
+  transform: rotate(90deg);
+}
+
+.cir-progress:before,
+.cir-progress:after{
+      left: 0;
+      left: 0;
+      text-align: center;
+}
+.cir-progress:before {
+    content:"HTML";
+    color: #4cbcbc;
+    line-height: 8rem;
+    position: absolute;
+    background: #111 content-box;
+    padding: .5em;
+    box-sizing: border-box;
+    font-size: 2rem;
+    transform: rotate(-90deg);
+}
+
+.cir-progress:after{
+  content:"60%";
+  position: absolute;
+  color:#fff;
+  line-height: 13rem;
+  background: linear-gradient(transparent 50%, #111 50%);
+  transform: scale(1.1) rotate(-90deg);;
+
+} */
