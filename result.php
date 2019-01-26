@@ -88,19 +88,25 @@
             <p class="text-center"> Tu Puntaje: <?php echo $porcentaje ?> % </p>
             <?php
               if($porcentaje > 21 && $porcentaje <= 40 ){
-                echo "<p class='text-center'> Tu nivel está entre 20 y 40 entonces </p>";
+                echo "<p class='text-center'> Tu nivel está entre 20 y 40 entonces necesitas
+                mejorar tus habitos personales, para que de alguna manera puedas sentirte
+                mejor contigo mismo. </p>";
               }
 
               if ($porcentaje > 41 && $porcentaje <= 60) {
-                echo "<p class='text-center'> Tu nivel está entre 40 y 60 entonces </p>";
+                echo "<p class='text-center'> Tu nivel está entre 40 y 60 entonces tienes
+                un porcentaje bueno, pero, puedes mejorar incrementando tus habitos. </p>";
               }
 
               if ($porcentaje > 61 && $porcentaje <= 80) {
-                echo "<p class='text-center'> Tu nivel está entre 60 y 80 entonces </p>";
+                echo "<p class='text-center'> Tu nivel está entre 60 y 80 entonces posees un
+                control adecuado en tu vida, por lo que, te gusta estar preparado para todo. </p>";
               }
 
               if ($porcentaje > 81 && $porcentaje <= 100) {
-                echo "<p class='text-center'> Tu nivel está entre 80 y 100 entonces </p>";
+                echo "<p class='text-center'> Tu nivel está entre 80 y 100 entonces tienes
+                un alto grado de proactividad, por lo que tu, tu eliges como
+                actuar ante ciertas circunstancias. </p>";
               }
 
             ?>
