@@ -36,7 +36,7 @@
     </div>
     <div class="navbar navbar-dark bg-nav shadow-sm">
       <div class="container d-flex justify-content-between">
-        <img src="IMG/lamtsoft.png" height="150px" alt="LAMTSOFT">
+        <a href="index.php"><img src="IMG/lamtsoft.png" height="150px" alt="LAMTSOFT"></a>
         <a href="#" class="navbar-brand d-flex align-items-center">
           <strong>SISTEMAS INFORMATICOS PARA LA ALTA DESICION</strong>
         </a>

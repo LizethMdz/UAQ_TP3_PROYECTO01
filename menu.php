@@ -38,7 +38,7 @@
     </div>
     <div class="navbar navbar-dark bg-nav shadow-sm">
       <div class="container d-flex justify-content-between">
-        <a href="index.html"><img src="IMG/lamtsoft.png" height="150px" alt="LAMTSOFT"></a>
+        <a href="index.php"><img src="IMG/lamtsoft.png" height="150px" alt="LAMTSOFT"></a>
         <a href="#" class="navbar-brand d-flex align-items-center">
           <strong>SISTEMAS INFORMATICOS PARA LA ALTA DESICION</strong>
         </a>
@@ -69,7 +69,7 @@
           <div class="img-circular">
           </div>
           <div class="img-texto">
-            <a href="introduccion.html" style="text-decoration:none;">
+            <a href="introduccion.php" style="text-decoration:none;">
               <p>Introducción</p>
             </a>
           </div>
@@ -87,7 +87,7 @@
           <div class="img-circular3">
           </div>
           <div class="img-texto">
-            <a href="autor.html" style="text-decoration:none;">
+            <a href="autor.php" style="text-decoration:none;">
               <p>Autor (a)</p>
             </a>
           </div>
@@ -98,7 +98,7 @@
     <hr>
 
     <div class="container col-sm-10 text-center btn-next">
-      <a class="btn btn-info btn-lg text-white" href="index.html">Atras</a>
+      <a class="btn btn-info btn-lg text-white" href="index.php">Atras</a>
     </div>
 
 

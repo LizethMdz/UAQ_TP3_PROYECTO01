@@ -38,7 +38,7 @@
     </div>
     <div class="navbar navbar-dark bg-nav shadow-sm">
       <div class="container d-flex justify-content-between">
-        <a href="index.html"><img src="IMG/lamtsoft.png" height="150px" alt="LAMTSOFT"></a>
+        <a href="index.php"><img src="IMG/lamtsoft.png" height="150px" alt="LAMTSOFT"></a>
         <a href="#" class="navbar-brand d-flex align-items-center">
           <strong>SISTEMAS INFORMATICOS PARA LA ALTA DESICION</strong>
         </a>
@@ -172,7 +172,7 @@
 
 
     <div class="container col-sm-10 text-center btn-next">
-      <a class="btn btn-info btn-lg text-white" href="menu.html">Atras</a>
+      <a class="btn btn-info btn-lg text-white" href="menu.php">Atras</a>
     </div>
 
 
