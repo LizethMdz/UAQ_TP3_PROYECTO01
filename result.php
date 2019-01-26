@@ -65,6 +65,7 @@
       <?php
 
         $suma = 0;
+        $porcentaje = 0;
 
         $uno = (int)$_POST['radio-1'];
         $dos = (int)$_POST['radio-2'];
@@ -86,7 +87,7 @@
 
             <p class="text-center"> Tu Puntaje: <?php echo $porcentaje ?> % </p>
             <?php
-              if($porcentaje > 20  $porcentaje <= 40 ){
+              if($porcentaje > 20 ||  $porcentaje <= 40 ){
                 echo "<p class='text-center'> Tu nivel está entre 20 y 40 entonces </p>";
               }else if ($porcentaje > 41 || $porcentaje <= 60) {
                 echo "<p class='text-center'> Tu nivel está entre 40 y 60 entonces </p>";
