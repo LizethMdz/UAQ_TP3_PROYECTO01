@@ -38,9 +38,9 @@
     </div>
     <div class="navbar navbar-dark bg-nav shadow-sm">
       <div class="container d-flex justify-content-between">
-        <a href="index.php"><img src="IMG/lamtsoft.png" height="150px" alt="LAMTSOFT"></a>
+        <!-- <a href="index.php"><img src="IMG/lamtsoft.png" height="150px" alt="LAMTSOFT"></a> -->
         <a href="#" class="navbar-brand d-flex align-items-center">
-          <strong>SISTEMAS INFORMATICOS PARA LA ALTA DESICION</strong>
+          <strong>SISTEMAS INFORMATICOS</strong>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
