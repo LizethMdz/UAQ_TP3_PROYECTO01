@@ -125,7 +125,7 @@
       </div>
       <hr>
       <div class="container col-sm-10 text-center btn-next">
-        <a class="btn btn-info btn-lg text-white" href="menu.html">Atras</a>
+        <a class="btn btn-info btn-lg text-white" href="menu.php">Atras</a>
       </div>
 
 
