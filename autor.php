@@ -69,12 +69,21 @@
           <img class="img-perfil" src="IMG/liz.jpg" alt="">
         </div>
         <div class="col-md-4">
+
+          <p>UNIVERSIDAD AUTÓNOMA DE QUERÉTARO</p>
+
           <p>Web Developer: Lizeth Ailet Mendoza Trejo</p>
           <p>Estudiante de la carrera de Ingenieria de Software
           en la Facultad de Informatica de la UAQ. Voy en
           septimo semestre.</p>
 
           <p>Desarrollo de Sistemas de Información de Alta Precisión</p>
+
+          <p>Tel: 4422307755</p>
+
+          <p>Correo: lizeth.mtrejo@gmail.com</p>
+
+
 
         </div>
         <div class="col-md-4">
