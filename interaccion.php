@@ -61,7 +61,7 @@
 
       <hr>
 
-      <form method="post" action="resultados.php">
+      <form method="post" action="result.php">
 
       <div class="container col-sm-10 cont">
         <h3 class="text-center">Contesta las siguientes preguntas para evaluar tu nivel de proactividad</h3>
