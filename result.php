@@ -114,10 +114,6 @@
           <div class="col-sm-12">
             <div id="container" style="min-width: 400px; max-width: 400px; height: 400px; margin: 0 auto; text-align:center;"></div>
           </div>
-          <div class="col-sm-12 text-center">
-              <p>DJAKSDJSKDJSLDJASLD</p>
-
-          </div>
 
         </div>
       </div>

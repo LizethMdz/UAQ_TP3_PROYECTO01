@@ -38,7 +38,7 @@
     </div>
     <div class="navbar navbar-dark shadow-sm bg-nav">
       <div class="container d-flex justify-content-between">
-        <a href="index.php"><img src="IMG/lamtsoft.png" height="150px" alt="LAMTSOFT"></a>
+        <!-- <a href="index.php"><img src="IMG/lamtsoft.png" height="150px" alt="LAMTSOFT"></a> -->
         <a href="#" class="navbar-brand d-flex align-items-center">
           <strong>SISTEMAS INFORMATICOS PARA LA ALTA DESICION</strong>
         </a>
@@ -60,9 +60,9 @@
         <img src="IMG/lamtsoft.png" alt="LAMTSOFT">
         <p class="lead text-muted">7 HABITOS DE LA GENTE ALTAMAENTE EFECTIVA
         </p>
-        <h3 class="text-animation">Los hábitos son factores poderosos en nuestras vidas. Dado que son pautas consistentes,
+        <h6 class="text-animation">Los hábitos son factores poderosos en nuestras vidas. Dado que son pautas consistentes,
           a menudo inconscientes, de modo constante y
-          cotidiano expresan nuestro carácter y generan nuestra efectividad o inefectividad.</h3>
+          cotidiano expresan nuestro carácter y generan nuestra efectividad o inefectividad.</h6>
       </div>
     </section>
 
