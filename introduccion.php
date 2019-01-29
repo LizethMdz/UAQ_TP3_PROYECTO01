@@ -57,7 +57,7 @@
     <section class=" text-center bg-white">
       <div class="container">
         <h1 class="jumbotron-heading">TÓPICO III - </h1>
-        <p class="lead text-muted">7 HABITOS DE LA GENTE ALTAMAENTE EFECTIVA
+        <p class="lead text-muted">7 HABITOS DE LA GENTE ALTAMAMENTE EFECTIVA
         </p>
         <p class="lead text-muted">INTRODUCCIÓN
         </p>

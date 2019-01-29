@@ -57,7 +57,7 @@
     <section class=" text-center bg-white">
       <div class="container">
         <h1 class="jumbotron-heading">TÓPICO III - </h1>
-        <p class="lead text-muted">7 HABITOS DE LA GENTE ALTAMAENTE EFECTIVA
+        <p class="lead text-muted">7 HABITOS DE LA GENTE ALTAMAMENTE EFECTIVA
         </p>
     </section>
 
@@ -72,7 +72,6 @@
 
           <p>UNIVERSIDAD AUTÓNOMA DE QUERÉTARO</p>
 
-          <p>Web Developer: Lizeth Ailet Mendoza Trejo</p>
           <p>Estudiante de la carrera de Ingenieria de Software
           en la Facultad de Informatica de la UAQ. Voy en
           septimo semestre.</p>

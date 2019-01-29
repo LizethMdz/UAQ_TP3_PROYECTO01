@@ -58,7 +58,7 @@
       <div class="container">
         <h1 class="jumbotron-heading">TÓPICO III - </h1>
         <img src="IMG/lamtsoft.png" alt="LAMTSOFT">
-        <p class="lead text-muted">7 HABITOS DE LA GENTE ALTAMAENTE EFECTIVA
+        <p class="lead text-muted">7 HABITOS DE LA GENTE ALTAMAMENTE EFECTIVA
         </p>
         <h6 class="text-animation">Los hábitos son factores poderosos en nuestras vidas. Dado que son pautas consistentes,
           a menudo inconscientes, de modo constante y
