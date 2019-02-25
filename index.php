@@ -54,15 +54,16 @@
   <main role="main">
 
 
-    <section class=" text-center bg-white">
-      <div class="container">
+    <section class="text-center text-white">
+      <div class="container" style="background-image:url('IMG/intro.jpeg'); opacity:0.7;" ">
         <h1 class="jumbotron-heading">TÓPICO III - </h1>
         <img src="IMG/lamtsoft.png" alt="LAMTSOFT">
-        <p class="lead text-muted">7 HABITOS DE LA GENTE ALTAMAMENTE EFECTIVA
+        <p class="lead text-white">7 HABITOS DE LA GENTE ALTAMAMENTE EFECTIVA
         </p>
-        <h6 class="text-animation">Los hábitos son factores poderosos en nuestras vidas. Dado que son pautas consistentes,
+        <h3 class="text-animation">
+          Los hábitos son factores poderosos en nuestras vidas. Dado que son pautas consistentes,
           a menudo inconscientes, de modo constante y
-          cotidiano expresan nuestro carácter y generan nuestra efectividad o inefectividad.</h6>
+          cotidiano expresan nuestro carácter y generan nuestra efectividad o inefectividad.</h3>
       </div>
     </section>
 
